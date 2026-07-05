@@ -1,0 +1,12 @@
+{
+  "spec": 2,
+  "channel_id": "ai-allstars",
+  "name": "AI Allstars",
+  "description": "Our favorites",
+  "categories": [
+    "animation",
+    "film",
+    "video game"
+  ],
+  "tagline": "Official channel for the Discord group"
+}
