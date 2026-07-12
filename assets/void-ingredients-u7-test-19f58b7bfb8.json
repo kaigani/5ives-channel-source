@@ -1,0 +1,22 @@
+{
+  "spec": 2,
+  "asset_id": "void-ingredients-u7-test-19f58b7bfb8",
+  "title": "Void Ingredients U7 Test",
+  "creator": "Kai Tester Account",
+  "description": "",
+  "duration_seconds": 10,
+  "content_rating": "General",
+  "license": "CC-BY-4.0",
+  "categories": [],
+  "magnet_uri": "magnet:?xt=urn:btih:7567c29805583892050eb691899075c59fa61a7a&dn=void-ingredients-u7-test-19f58b7bfb8&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+  "info_hash_v1": "7567c29805583892050eb691899075c59fa61a7a",
+  "content_sha256": "d66517608d29f9b06787b5486a79890e17d0b71fdcf3d77d0bfce950d305d3a7",
+  "files": {
+    "video": "video_1080p.mp4",
+    "poster": "poster.jpg"
+  },
+  "mirror_urls": [],
+  "published_at": "2026-07-12T23:45:20.160929300Z",
+  "signer": "B019 C291 BD8D C87F",
+  "target_channel": "ai-allstars"
+}
