@@ -1,7 +1,7 @@
 {
   "spec": 2,
   "registry_id": "my-b934c1b2dbe28ad4",
-  "version": 1,
+  "version": 2,
   "entries": [
     {
       "asset_id": "void-ingredients-u7-test-19f58b7bfb8",
@@ -9,6 +9,13 @@
       "content_sha256": "d66517608d29f9b06787b5486a79890e17d0b71fdcf3d77d0bfce950d305d3a7",
       "reason": "Removed by the channel owner.",
       "at": "2026-07-12T23:59:58.594555Z"
+    },
+    {
+      "asset_id": "ed-norton-fight-club-19f5c8522c3",
+      "info_hash_v1": "c3f6def5151f3b2f49cd72b45d19d3323d6d7ae8",
+      "content_sha256": "462073c9e239be61ad1a2da9e60e23cfeefa67020b6dc4e2d0db34ac3b0b7426",
+      "reason": "inappropriate",
+      "at": "2026-07-13T17:51:16.641368Z"
     }
   ]
 }
