@@ -1,0 +1,22 @@
+{
+  "spec": 2,
+  "asset_id": "ltx-2-3-01413-19f5c876812",
+  "title": "LTX_2.3_01413_",
+  "creator": "Kai Tester Account",
+  "description": "",
+  "duration_seconds": 13,
+  "content_rating": "General",
+  "license": "CC-BY-4.0",
+  "categories": [],
+  "magnet_uri": "magnet:?xt=urn:btih:a54702193ec2e770a3c7161e4f46b7f075c3eb65&dn=ltx-2-3-01413-19f5c876812&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+  "info_hash_v1": "a54702193ec2e770a3c7161e4f46b7f075c3eb65",
+  "content_sha256": "507719d23abe94b7072123a163d98ead157b71954b1eea03cfdf2117c1cef050",
+  "files": {
+    "video": "video_1080p.mp4",
+    "poster": "poster.jpg"
+  },
+  "mirror_urls": [],
+  "published_at": "2026-07-13T17:30:11.078404200Z",
+  "signer": "B019 C291 BD8D C87F",
+  "target_channel": "ai-allstars"
+}
