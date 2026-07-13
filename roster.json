@@ -1,20 +1,7 @@
 {
   "spec": 2,
   "registry_id": "my-b934c1b2dbe28ad4",
-  "version": 3,
-  "generated_at": "2026-07-08T14:16:47.543524Z",
-  "keys": [
-    {
-      "pubkey": "untrusted comment: minisign public key: 3DF6E2F8FB2F67E7\nRWTnZy/7+OL2PQgZ173lBMTfDyu9EnguW2zaxbUk9vB1fxeLQgXL9ves\n",
-      "fingerprint": "B019 C291 BD8D C87F",
-      "handle": "fives:id:dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDNERjZFMkY4RkIyRjY3RTcKUldUblp5LzcrT0wyUFFnWjE3M2xCTVRmRHl1OUVuZ3VXMnpheGJVazl2QjFmeGVMUWdYTDl2ZXMK#Kai Tester Account",
-      "roles": [
-        {
-          "channel_id": "*",
-          "role": "creator"
-        }
-      ],
-      "added_at": "2026-07-08T14:16:47.543195Z"
-    }
-  ]
+  "version": 4,
+  "generated_at": "2026-07-13T00:03:07.401131Z",
+  "keys": []
 }
