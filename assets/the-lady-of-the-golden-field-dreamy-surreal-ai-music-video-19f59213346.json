@@ -1,0 +1,24 @@
+{
+  "spec": 2,
+  "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+  "title": "The Lady of the Golden Field | Dreamy Surreal AI Music Video",
+  "creator": "Tschaikeego | Deep Ink Tales",
+  "description": "",
+  "duration_seconds": 209,
+  "content_rating": "General",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "animation",
+    "film",
+    "music video"
+  ],
+  "magnet_uri": "magnet:?xt=urn:btih:903a67fd858a5f5c265af0ad076320271de1db23&dn=the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+  "info_hash_v1": "903a67fd858a5f5c265af0ad076320271de1db23",
+  "content_sha256": "25b77d21b6c4213a5218ba57ebc97d1dd20f13d9bedd9603224d43a0c5bbef60",
+  "files": {
+    "video": "video_1080p.mp4",
+    "poster": "poster.jpg"
+  },
+  "mirror_urls": [],
+  "published_at": "2026-07-13T01:40:33.215801Z"
+}
