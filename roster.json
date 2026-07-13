@@ -1,8 +1,8 @@
 {
   "spec": 2,
   "registry_id": "my-b934c1b2dbe28ad4",
-  "version": 5,
-  "generated_at": "2026-07-13T03:06:37.489332Z",
+  "version": 6,
+  "generated_at": "2026-07-13T03:09:46.878019Z",
   "keys": [
     {
       "pubkey": "untrusted comment: minisign public key: 3DF6E2F8FB2F67E7\nRWTnZy/7+OL2PQgZ173lBMTfDyu9EnguW2zaxbUk9vB1fxeLQgXL9ves\n",
@@ -14,7 +14,7 @@
           "role": "creator"
         }
       ],
-      "added_at": "2026-07-13T03:06:37.489261Z"
+      "added_at": "2026-07-13T03:09:46.877921Z"
     }
   ]
 }
