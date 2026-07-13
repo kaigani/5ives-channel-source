@@ -1,0 +1,24 @@
+{
+  "spec": 2,
+  "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+  "title": "Light (UGU) - Call me the builder",
+  "creator": "UGU_DY_LIGHT",
+  "description": "",
+  "duration_seconds": 238,
+  "content_rating": "General",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "animation",
+    "film",
+    "music video"
+  ],
+  "magnet_uri": "magnet:?xt=urn:btih:d70f26cd22adbaab22b0c980c7c1c3c679351530&dn=light-ugu-call-me-the-builder-19f5cc48d16&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+  "info_hash_v1": "d70f26cd22adbaab22b0c980c7c1c3c679351530",
+  "content_sha256": "053c2cc54380e1e266b268752c176fd087ad64a855c81194bbbfd32c284d4dbc",
+  "files": {
+    "video": "video_1080p.mp4",
+    "poster": "poster.jpg"
+  },
+  "mirror_urls": [],
+  "published_at": "2026-07-13T18:37:24.876446Z"
+}
