@@ -1,0 +1,24 @@
+{
+  "spec": 2,
+  "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+  "title": "Legacy of Kain Soul Reaver Intro Prolog",
+  "creator": "Alucard GHOST ENGINE FILMS",
+  "description": "",
+  "duration_seconds": 145,
+  "content_rating": "General",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "animation",
+    "film",
+    "video game"
+  ],
+  "magnet_uri": "magnet:?xt=urn:btih:a320bc87318c02d0083dbdd46703812cbf81206d&dn=legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+  "info_hash_v1": "a320bc87318c02d0083dbdd46703812cbf81206d",
+  "content_sha256": "d2ea51bc7f9eadb1207e20fa73dea2ccb3dd2dc3ebfbc9ed98dd8bb2c6fba068",
+  "files": {
+    "video": "video_1080p.mp4",
+    "poster": "poster.jpg"
+  },
+  "mirror_urls": [],
+  "published_at": "2026-07-13T18:36:30.003458Z"
+}
