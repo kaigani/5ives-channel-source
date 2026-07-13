@@ -1,7 +1,7 @@
 {
   "spec": 2,
   "channel_id": "ai-allstars",
-  "version": 6,
+  "version": 7,
   "valid_from": "2026-07-13T00:00:00Z",
   "valid_until": "2026-07-14T00:00:00Z",
   "slots": [
@@ -30,3044 +30,3023 @@
       "type": "fixed",
       "slot_id": "2026-07-13-003",
       "start_time": 592,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-004",
-      "start_time": 801,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 795,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-005",
-      "start_time": 946,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 1004,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-006",
-      "start_time": 1184,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 1149,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-007",
-      "start_time": 1393,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 1387,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-008",
-      "start_time": 1538,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-009",
-      "start_time": 1776,
+      "start_time": 1590,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-010",
-      "start_time": 1985,
+      "slot_id": "2026-07-13-009",
+      "start_time": 1799,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-011",
-      "start_time": 2130,
+      "slot_id": "2026-07-13-010",
+      "start_time": 1944,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-011",
+      "start_time": 2182,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-012",
-      "start_time": 2368,
+      "start_time": 2385,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-013",
-      "start_time": 2577,
+      "start_time": 2594,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-014",
-      "start_time": 2722,
+      "start_time": 2739,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-015",
-      "start_time": 2960,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 2977,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-016",
-      "start_time": 3169,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 3180,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-017",
-      "start_time": 3314,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 3389,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-018",
-      "start_time": 3552,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 3534,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-019",
-      "start_time": 3761,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 3772,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-020",
-      "start_time": 3906,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-021",
-      "start_time": 4144,
+      "start_time": 3975,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-022",
-      "start_time": 4353,
+      "slot_id": "2026-07-13-021",
+      "start_time": 4184,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-023",
-      "start_time": 4498,
+      "slot_id": "2026-07-13-022",
+      "start_time": 4329,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-023",
+      "start_time": 4567,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-024",
-      "start_time": 4736,
+      "start_time": 4770,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-025",
-      "start_time": 4945,
+      "start_time": 4979,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-026",
-      "start_time": 5090,
+      "start_time": 5124,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-027",
-      "start_time": 5328,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 5362,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-028",
-      "start_time": 5537,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 5565,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-029",
-      "start_time": 5682,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 5774,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-030",
-      "start_time": 5920,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 5919,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-031",
-      "start_time": 6129,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 6157,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-032",
-      "start_time": 6274,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-033",
-      "start_time": 6512,
+      "start_time": 6360,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-034",
-      "start_time": 6721,
+      "slot_id": "2026-07-13-033",
+      "start_time": 6569,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-035",
-      "start_time": 6866,
+      "slot_id": "2026-07-13-034",
+      "start_time": 6714,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-035",
+      "start_time": 6952,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-036",
-      "start_time": 7104,
+      "start_time": 7155,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-037",
-      "start_time": 7313,
+      "start_time": 7364,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-038",
-      "start_time": 7458,
+      "start_time": 7509,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-039",
-      "start_time": 7696,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 7747,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-040",
-      "start_time": 7905,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 7950,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-041",
-      "start_time": 8050,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 8159,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-042",
-      "start_time": 8288,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 8304,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-043",
-      "start_time": 8497,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 8542,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-044",
-      "start_time": 8642,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-045",
-      "start_time": 8880,
+      "start_time": 8745,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-046",
-      "start_time": 9089,
+      "slot_id": "2026-07-13-045",
+      "start_time": 8954,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-047",
-      "start_time": 9234,
+      "slot_id": "2026-07-13-046",
+      "start_time": 9099,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-047",
+      "start_time": 9337,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-048",
-      "start_time": 9472,
+      "start_time": 9540,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-049",
-      "start_time": 9681,
+      "start_time": 9749,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-050",
-      "start_time": 9826,
+      "start_time": 9894,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-051",
-      "start_time": 10064,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 10132,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-052",
-      "start_time": 10273,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 10335,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-053",
-      "start_time": 10418,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 10544,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-054",
-      "start_time": 10656,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 10689,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-055",
-      "start_time": 10865,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 10927,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-056",
-      "start_time": 11010,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-057",
-      "start_time": 11248,
+      "start_time": 11130,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-058",
-      "start_time": 11457,
+      "slot_id": "2026-07-13-057",
+      "start_time": 11339,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-059",
-      "start_time": 11602,
+      "slot_id": "2026-07-13-058",
+      "start_time": 11484,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-059",
+      "start_time": 11722,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-060",
-      "start_time": 11840,
+      "start_time": 11925,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-061",
-      "start_time": 12049,
+      "start_time": 12134,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-062",
-      "start_time": 12194,
+      "start_time": 12279,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-063",
-      "start_time": 12432,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 12517,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-064",
-      "start_time": 12641,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 12720,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-065",
-      "start_time": 12786,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 12929,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-066",
-      "start_time": 13024,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 13074,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-067",
-      "start_time": 13233,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 13312,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-068",
-      "start_time": 13378,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-069",
-      "start_time": 13616,
+      "start_time": 13515,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-070",
-      "start_time": 13825,
+      "slot_id": "2026-07-13-069",
+      "start_time": 13724,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-071",
-      "start_time": 13970,
+      "slot_id": "2026-07-13-070",
+      "start_time": 13869,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-071",
+      "start_time": 14107,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-072",
-      "start_time": 14208,
+      "start_time": 14310,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-073",
-      "start_time": 14417,
+      "start_time": 14519,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-074",
-      "start_time": 14562,
+      "start_time": 14664,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-075",
-      "start_time": 14800,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 14902,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-076",
-      "start_time": 15009,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 15105,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-077",
-      "start_time": 15154,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 15314,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-078",
-      "start_time": 15392,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 15459,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-079",
-      "start_time": 15601,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 15697,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-080",
-      "start_time": 15746,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-081",
-      "start_time": 15984,
+      "start_time": 15900,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-082",
-      "start_time": 16193,
+      "slot_id": "2026-07-13-081",
+      "start_time": 16109,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-083",
-      "start_time": 16338,
+      "slot_id": "2026-07-13-082",
+      "start_time": 16254,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-083",
+      "start_time": 16492,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-084",
-      "start_time": 16576,
+      "start_time": 16695,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-085",
-      "start_time": 16785,
+      "start_time": 16904,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-086",
-      "start_time": 16930,
+      "start_time": 17049,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-087",
-      "start_time": 17168,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 17287,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-088",
-      "start_time": 17377,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 17490,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-089",
-      "start_time": 17522,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 17699,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-090",
-      "start_time": 17760,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 17844,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-091",
-      "start_time": 17969,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 18082,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-092",
-      "start_time": 18114,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-093",
-      "start_time": 18352,
+      "start_time": 18285,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-094",
-      "start_time": 18561,
+      "slot_id": "2026-07-13-093",
+      "start_time": 18494,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-095",
-      "start_time": 18706,
+      "slot_id": "2026-07-13-094",
+      "start_time": 18639,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-095",
+      "start_time": 18877,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-096",
-      "start_time": 18944,
+      "start_time": 19080,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-097",
-      "start_time": 19153,
+      "start_time": 19289,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-098",
-      "start_time": 19298,
+      "start_time": 19434,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-099",
-      "start_time": 19536,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 19672,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-100",
-      "start_time": 19745,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 19875,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-101",
-      "start_time": 19890,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 20084,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-102",
-      "start_time": 20128,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 20229,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-103",
-      "start_time": 20337,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 20467,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-104",
-      "start_time": 20482,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-105",
-      "start_time": 20720,
+      "start_time": 20670,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-106",
-      "start_time": 20929,
+      "slot_id": "2026-07-13-105",
+      "start_time": 20879,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-107",
-      "start_time": 21074,
+      "slot_id": "2026-07-13-106",
+      "start_time": 21024,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-107",
+      "start_time": 21262,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-108",
-      "start_time": 21312,
+      "start_time": 21465,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-109",
-      "start_time": 21521,
+      "start_time": 21674,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-110",
-      "start_time": 21666,
+      "start_time": 21819,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-111",
-      "start_time": 21904,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 22057,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-112",
-      "start_time": 22113,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 22260,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-113",
-      "start_time": 22258,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 22469,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-114",
-      "start_time": 22496,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 22614,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-115",
-      "start_time": 22705,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 22852,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-116",
-      "start_time": 22850,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-117",
-      "start_time": 23088,
+      "start_time": 23055,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-118",
-      "start_time": 23297,
+      "slot_id": "2026-07-13-117",
+      "start_time": 23264,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-119",
-      "start_time": 23442,
+      "slot_id": "2026-07-13-118",
+      "start_time": 23409,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-119",
+      "start_time": 23647,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-120",
-      "start_time": 23680,
+      "start_time": 23850,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-121",
-      "start_time": 23889,
+      "start_time": 24059,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-122",
-      "start_time": 24034,
+      "start_time": 24204,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-123",
-      "start_time": 24272,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 24442,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-124",
-      "start_time": 24481,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 24645,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-125",
-      "start_time": 24626,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 24854,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-126",
-      "start_time": 24864,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 24999,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-127",
-      "start_time": 25073,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 25237,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-128",
-      "start_time": 25218,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-129",
-      "start_time": 25456,
+      "start_time": 25440,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-130",
-      "start_time": 25665,
+      "slot_id": "2026-07-13-129",
+      "start_time": 25649,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-131",
-      "start_time": 25810,
+      "slot_id": "2026-07-13-130",
+      "start_time": 25794,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-131",
+      "start_time": 26032,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-132",
-      "start_time": 26048,
+      "start_time": 26235,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-133",
-      "start_time": 26257,
+      "start_time": 26444,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-134",
-      "start_time": 26402,
+      "start_time": 26589,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-135",
-      "start_time": 26640,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 26827,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-136",
-      "start_time": 26849,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 27030,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-137",
-      "start_time": 26994,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 27239,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-138",
-      "start_time": 27232,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 27384,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-139",
-      "start_time": 27441,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 27622,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-140",
-      "start_time": 27586,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-141",
-      "start_time": 27824,
+      "start_time": 27825,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-142",
-      "start_time": 28033,
+      "slot_id": "2026-07-13-141",
+      "start_time": 28034,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-143",
-      "start_time": 28178,
+      "slot_id": "2026-07-13-142",
+      "start_time": 28179,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-143",
+      "start_time": 28417,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-144",
-      "start_time": 28416,
+      "start_time": 28620,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-145",
-      "start_time": 28625,
+      "start_time": 28829,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-146",
-      "start_time": 28770,
+      "start_time": 28974,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-147",
-      "start_time": 29008,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 29212,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-148",
-      "start_time": 29217,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 29415,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-149",
-      "start_time": 29362,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 29624,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-150",
-      "start_time": 29600,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 29769,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-151",
-      "start_time": 29809,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 30007,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-152",
-      "start_time": 29954,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-153",
-      "start_time": 30192,
+      "start_time": 30210,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-154",
-      "start_time": 30401,
+      "slot_id": "2026-07-13-153",
+      "start_time": 30419,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-155",
-      "start_time": 30546,
+      "slot_id": "2026-07-13-154",
+      "start_time": 30564,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-155",
+      "start_time": 30802,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-156",
-      "start_time": 30784,
+      "start_time": 31005,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-157",
-      "start_time": 30993,
+      "start_time": 31214,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-158",
-      "start_time": 31138,
+      "start_time": 31359,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-159",
-      "start_time": 31376,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 31597,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-160",
-      "start_time": 31585,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 31800,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-161",
-      "start_time": 31730,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 32009,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-162",
-      "start_time": 31968,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 32154,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-163",
-      "start_time": 32177,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 32392,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-164",
-      "start_time": 32322,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-165",
-      "start_time": 32560,
+      "start_time": 32595,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-166",
-      "start_time": 32769,
+      "slot_id": "2026-07-13-165",
+      "start_time": 32804,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-167",
-      "start_time": 32914,
+      "slot_id": "2026-07-13-166",
+      "start_time": 32949,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-167",
+      "start_time": 33187,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-168",
-      "start_time": 33152,
+      "start_time": 33390,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-169",
-      "start_time": 33361,
+      "start_time": 33599,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-170",
-      "start_time": 33506,
+      "start_time": 33744,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-171",
-      "start_time": 33744,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 33982,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-172",
-      "start_time": 33953,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 34185,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-173",
-      "start_time": 34098,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 34394,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-174",
-      "start_time": 34336,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 34539,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-175",
-      "start_time": 34545,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 34777,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-176",
-      "start_time": 34690,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-177",
-      "start_time": 34928,
+      "start_time": 34980,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-178",
-      "start_time": 35137,
+      "slot_id": "2026-07-13-177",
+      "start_time": 35189,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-179",
-      "start_time": 35282,
+      "slot_id": "2026-07-13-178",
+      "start_time": 35334,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-179",
+      "start_time": 35572,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-180",
-      "start_time": 35520,
+      "start_time": 35775,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-181",
-      "start_time": 35729,
+      "start_time": 35984,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-182",
-      "start_time": 35874,
+      "start_time": 36129,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-183",
-      "start_time": 36112,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 36367,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-184",
-      "start_time": 36321,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 36570,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-185",
-      "start_time": 36466,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 36779,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-186",
-      "start_time": 36704,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 36924,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-187",
-      "start_time": 36913,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 37162,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-188",
-      "start_time": 37058,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-189",
-      "start_time": 37296,
+      "start_time": 37365,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-190",
-      "start_time": 37505,
+      "slot_id": "2026-07-13-189",
+      "start_time": 37574,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-191",
-      "start_time": 37650,
+      "slot_id": "2026-07-13-190",
+      "start_time": 37719,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-191",
+      "start_time": 37957,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-192",
-      "start_time": 37888,
+      "start_time": 38160,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-193",
-      "start_time": 38097,
+      "start_time": 38369,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-194",
-      "start_time": 38242,
+      "start_time": 38514,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-195",
-      "start_time": 38480,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 38752,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-196",
-      "start_time": 38689,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 38955,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-197",
-      "start_time": 38834,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 39164,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-198",
-      "start_time": 39072,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 39309,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-199",
-      "start_time": 39281,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 39547,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-200",
-      "start_time": 39426,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-201",
-      "start_time": 39664,
+      "start_time": 39750,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-202",
-      "start_time": 39873,
+      "slot_id": "2026-07-13-201",
+      "start_time": 39959,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-203",
-      "start_time": 40018,
+      "slot_id": "2026-07-13-202",
+      "start_time": 40104,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-203",
+      "start_time": 40342,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-204",
-      "start_time": 40256,
+      "start_time": 40545,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-205",
-      "start_time": 40465,
+      "start_time": 40754,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-206",
-      "start_time": 40610,
+      "start_time": 40899,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-207",
-      "start_time": 40848,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 41137,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-208",
-      "start_time": 41057,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 41340,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-209",
-      "start_time": 41202,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 41549,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-210",
-      "start_time": 41440,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 41694,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-211",
-      "start_time": 41649,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 41932,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-212",
-      "start_time": 41794,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-213",
-      "start_time": 42032,
+      "start_time": 42135,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-214",
-      "start_time": 42241,
+      "slot_id": "2026-07-13-213",
+      "start_time": 42344,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-215",
-      "start_time": 42386,
+      "slot_id": "2026-07-13-214",
+      "start_time": 42489,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-215",
+      "start_time": 42727,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-216",
-      "start_time": 42624,
+      "start_time": 42930,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-217",
-      "start_time": 42833,
+      "start_time": 43139,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-218",
-      "start_time": 42978,
+      "start_time": 43284,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-219",
-      "start_time": 43216,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 43522,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-220",
-      "start_time": 43425,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 43725,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-221",
-      "start_time": 43570,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 43934,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-222",
-      "start_time": 43808,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 44079,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-223",
-      "start_time": 44017,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 44317,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-224",
-      "start_time": 44162,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-225",
-      "start_time": 44400,
+      "start_time": 44520,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-226",
-      "start_time": 44609,
+      "slot_id": "2026-07-13-225",
+      "start_time": 44729,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-227",
-      "start_time": 44754,
+      "slot_id": "2026-07-13-226",
+      "start_time": 44874,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-227",
+      "start_time": 45112,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-228",
-      "start_time": 44992,
+      "start_time": 45315,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-229",
-      "start_time": 45201,
+      "start_time": 45524,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-230",
-      "start_time": 45346,
+      "start_time": 45669,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-231",
-      "start_time": 45584,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 45907,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-232",
-      "start_time": 45793,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 46110,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-233",
-      "start_time": 45938,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 46319,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-234",
-      "start_time": 46176,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 46464,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-235",
-      "start_time": 46385,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 46702,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-236",
-      "start_time": 46530,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-237",
-      "start_time": 46768,
+      "start_time": 46905,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-238",
-      "start_time": 46977,
+      "slot_id": "2026-07-13-237",
+      "start_time": 47114,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-239",
-      "start_time": 47122,
+      "slot_id": "2026-07-13-238",
+      "start_time": 47259,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-239",
+      "start_time": 47497,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-240",
-      "start_time": 47360,
+      "start_time": 47700,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-241",
-      "start_time": 47569,
+      "start_time": 47909,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-242",
-      "start_time": 47714,
+      "start_time": 48054,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-243",
-      "start_time": 47952,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 48292,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-244",
-      "start_time": 48161,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 48495,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-245",
-      "start_time": 48306,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 48704,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-246",
-      "start_time": 48544,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 48849,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-247",
-      "start_time": 48753,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 49087,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-248",
-      "start_time": 48898,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-249",
-      "start_time": 49136,
+      "start_time": 49290,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-250",
-      "start_time": 49345,
+      "slot_id": "2026-07-13-249",
+      "start_time": 49499,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-251",
-      "start_time": 49490,
+      "slot_id": "2026-07-13-250",
+      "start_time": 49644,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-251",
+      "start_time": 49882,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-252",
-      "start_time": 49728,
+      "start_time": 50085,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-253",
-      "start_time": 49937,
+      "start_time": 50294,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-254",
-      "start_time": 50082,
+      "start_time": 50439,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-255",
-      "start_time": 50320,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 50677,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-256",
-      "start_time": 50529,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 50880,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-257",
-      "start_time": 50674,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 51089,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-258",
-      "start_time": 50912,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 51234,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-259",
-      "start_time": 51121,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 51472,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-260",
-      "start_time": 51266,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-261",
-      "start_time": 51504,
+      "start_time": 51675,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-262",
-      "start_time": 51713,
+      "slot_id": "2026-07-13-261",
+      "start_time": 51884,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-263",
-      "start_time": 51858,
+      "slot_id": "2026-07-13-262",
+      "start_time": 52029,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-263",
+      "start_time": 52267,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-264",
-      "start_time": 52096,
+      "start_time": 52470,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-265",
-      "start_time": 52305,
+      "start_time": 52679,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-266",
-      "start_time": 52450,
+      "start_time": 52824,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-267",
-      "start_time": 52688,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 53062,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-268",
-      "start_time": 52897,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 53265,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-269",
-      "start_time": 53042,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 53474,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-270",
-      "start_time": 53280,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 53619,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-271",
-      "start_time": 53489,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 53857,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-272",
-      "start_time": 53634,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-273",
-      "start_time": 53872,
+      "start_time": 54060,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-274",
-      "start_time": 54081,
+      "slot_id": "2026-07-13-273",
+      "start_time": 54269,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-275",
-      "start_time": 54226,
+      "slot_id": "2026-07-13-274",
+      "start_time": 54414,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-275",
+      "start_time": 54652,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-276",
-      "start_time": 54464,
+      "start_time": 54855,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-277",
-      "start_time": 54673,
+      "start_time": 55064,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-278",
-      "start_time": 54818,
+      "start_time": 55209,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-279",
-      "start_time": 55056,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 55447,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-280",
-      "start_time": 55265,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 55650,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-281",
-      "start_time": 55410,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 55859,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-282",
-      "start_time": 55648,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 56004,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-283",
-      "start_time": 55857,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 56242,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-284",
-      "start_time": 56002,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-285",
-      "start_time": 56240,
+      "start_time": 56445,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-286",
-      "start_time": 56449,
+      "slot_id": "2026-07-13-285",
+      "start_time": 56654,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-287",
-      "start_time": 56594,
+      "slot_id": "2026-07-13-286",
+      "start_time": 56799,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-287",
+      "start_time": 57037,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-288",
-      "start_time": 56832,
+      "start_time": 57240,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-289",
-      "start_time": 57041,
+      "start_time": 57449,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-290",
-      "start_time": 57186,
+      "start_time": 57594,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-291",
-      "start_time": 57424,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 57832,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-292",
-      "start_time": 57633,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 58035,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-293",
-      "start_time": 57778,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 58244,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-294",
-      "start_time": 58016,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 58389,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-295",
-      "start_time": 58225,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 58627,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-296",
-      "start_time": 58370,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-297",
-      "start_time": 58608,
+      "start_time": 58830,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-298",
-      "start_time": 58817,
+      "slot_id": "2026-07-13-297",
+      "start_time": 59039,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-299",
-      "start_time": 58962,
+      "slot_id": "2026-07-13-298",
+      "start_time": 59184,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-299",
+      "start_time": 59422,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-300",
-      "start_time": 59200,
+      "start_time": 59625,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-301",
-      "start_time": 59409,
+      "start_time": 59834,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-302",
-      "start_time": 59554,
+      "start_time": 59979,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-303",
-      "start_time": 59792,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 60217,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-304",
-      "start_time": 60001,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 60420,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-305",
-      "start_time": 60146,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 60629,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-306",
-      "start_time": 60384,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 60774,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-307",
-      "start_time": 60593,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 61012,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-308",
-      "start_time": 60738,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-309",
-      "start_time": 60976,
+      "start_time": 61215,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-310",
-      "start_time": 61185,
+      "slot_id": "2026-07-13-309",
+      "start_time": 61424,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-311",
-      "start_time": 61330,
+      "slot_id": "2026-07-13-310",
+      "start_time": 61569,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-311",
+      "start_time": 61807,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-312",
-      "start_time": 61568,
+      "start_time": 62010,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-313",
-      "start_time": 61777,
+      "start_time": 62219,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-314",
-      "start_time": 61922,
+      "start_time": 62364,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-315",
-      "start_time": 62160,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 62602,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-316",
-      "start_time": 62369,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 62805,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-317",
-      "start_time": 62514,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 63014,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-318",
-      "start_time": 62752,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 63159,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-319",
-      "start_time": 62961,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 63397,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-320",
-      "start_time": 63106,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-321",
-      "start_time": 63344,
+      "start_time": 63600,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-322",
-      "start_time": 63553,
+      "slot_id": "2026-07-13-321",
+      "start_time": 63809,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-323",
-      "start_time": 63698,
+      "slot_id": "2026-07-13-322",
+      "start_time": 63954,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-323",
+      "start_time": 64192,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-324",
-      "start_time": 63936,
+      "start_time": 64395,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-325",
-      "start_time": 64145,
+      "start_time": 64604,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-326",
-      "start_time": 64290,
+      "start_time": 64749,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-327",
-      "start_time": 64528,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 64987,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-328",
-      "start_time": 64737,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 65190,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-329",
-      "start_time": 64882,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 65399,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-330",
-      "start_time": 65120,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 65544,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-331",
-      "start_time": 65329,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 65782,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-332",
-      "start_time": 65474,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-333",
-      "start_time": 65712,
+      "start_time": 65985,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-334",
-      "start_time": 65921,
+      "slot_id": "2026-07-13-333",
+      "start_time": 66194,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-335",
-      "start_time": 66066,
+      "slot_id": "2026-07-13-334",
+      "start_time": 66339,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-335",
+      "start_time": 66577,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-336",
-      "start_time": 66304,
+      "start_time": 66780,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-337",
-      "start_time": 66513,
+      "start_time": 66989,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-338",
-      "start_time": 66658,
+      "start_time": 67134,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-339",
-      "start_time": 66896,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 67372,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-340",
-      "start_time": 67105,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 67575,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-341",
-      "start_time": 67250,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 67784,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-342",
-      "start_time": 67488,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 67929,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-343",
-      "start_time": 67697,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 68167,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-344",
-      "start_time": 67842,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-345",
-      "start_time": 68080,
+      "start_time": 68370,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-346",
-      "start_time": 68289,
+      "slot_id": "2026-07-13-345",
+      "start_time": 68579,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-347",
-      "start_time": 68434,
+      "slot_id": "2026-07-13-346",
+      "start_time": 68724,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-347",
+      "start_time": 68962,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-348",
-      "start_time": 68672,
+      "start_time": 69165,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-349",
-      "start_time": 68881,
+      "start_time": 69374,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-350",
-      "start_time": 69026,
+      "start_time": 69519,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-351",
-      "start_time": 69264,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 69757,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-352",
-      "start_time": 69473,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 69960,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-353",
-      "start_time": 69618,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 70169,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-354",
-      "start_time": 69856,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 70314,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-355",
-      "start_time": 70065,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 70552,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-356",
-      "start_time": 70210,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-357",
-      "start_time": 70448,
+      "start_time": 70755,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-358",
-      "start_time": 70657,
+      "slot_id": "2026-07-13-357",
+      "start_time": 70964,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-359",
-      "start_time": 70802,
+      "slot_id": "2026-07-13-358",
+      "start_time": 71109,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-359",
+      "start_time": 71347,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-360",
-      "start_time": 71040,
+      "start_time": 71550,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-361",
-      "start_time": 71249,
+      "start_time": 71759,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-362",
-      "start_time": 71394,
+      "start_time": 71904,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-363",
-      "start_time": 71632,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 72142,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-364",
-      "start_time": 71841,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 72345,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-365",
-      "start_time": 71986,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 72554,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-366",
-      "start_time": 72224,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 72699,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-367",
-      "start_time": 72433,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 72937,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-368",
-      "start_time": 72578,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-369",
-      "start_time": 72816,
+      "start_time": 73140,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-370",
-      "start_time": 73025,
+      "slot_id": "2026-07-13-369",
+      "start_time": 73349,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-371",
-      "start_time": 73170,
+      "slot_id": "2026-07-13-370",
+      "start_time": 73494,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-371",
+      "start_time": 73732,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-372",
-      "start_time": 73408,
+      "start_time": 73935,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-373",
-      "start_time": 73617,
+      "start_time": 74144,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-374",
-      "start_time": 73762,
+      "start_time": 74289,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-375",
-      "start_time": 74000,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 74527,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-376",
-      "start_time": 74209,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 74730,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-377",
-      "start_time": 74354,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 74939,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-378",
-      "start_time": 74592,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 75084,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-379",
-      "start_time": 74801,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 75322,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-380",
-      "start_time": 74946,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-381",
-      "start_time": 75184,
+      "start_time": 75525,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-382",
-      "start_time": 75393,
+      "slot_id": "2026-07-13-381",
+      "start_time": 75734,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-383",
-      "start_time": 75538,
+      "slot_id": "2026-07-13-382",
+      "start_time": 75879,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-383",
+      "start_time": 76117,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-384",
-      "start_time": 75776,
+      "start_time": 76320,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-385",
-      "start_time": 75985,
+      "start_time": 76529,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-386",
-      "start_time": 76130,
+      "start_time": 76674,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-387",
-      "start_time": 76368,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 76912,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-388",
-      "start_time": 76577,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 77115,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-389",
-      "start_time": 76722,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 77324,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-390",
-      "start_time": 76960,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 77469,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-391",
-      "start_time": 77169,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 77707,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-392",
-      "start_time": 77314,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-393",
-      "start_time": 77552,
+      "start_time": 77910,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-394",
-      "start_time": 77761,
+      "slot_id": "2026-07-13-393",
+      "start_time": 78119,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-395",
-      "start_time": 77906,
+      "slot_id": "2026-07-13-394",
+      "start_time": 78264,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-395",
+      "start_time": 78502,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-396",
-      "start_time": 78144,
+      "start_time": 78705,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-397",
-      "start_time": 78353,
+      "start_time": 78914,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-398",
-      "start_time": 78498,
+      "start_time": 79059,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-399",
-      "start_time": 78736,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 79297,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-400",
-      "start_time": 78945,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 79500,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-401",
-      "start_time": 79090,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 79709,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-402",
-      "start_time": 79328,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 79854,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-403",
-      "start_time": 79537,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 80092,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-404",
-      "start_time": 79682,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-405",
-      "start_time": 79920,
+      "start_time": 80295,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-406",
-      "start_time": 80129,
+      "slot_id": "2026-07-13-405",
+      "start_time": 80504,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-407",
-      "start_time": 80274,
+      "slot_id": "2026-07-13-406",
+      "start_time": 80649,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-407",
+      "start_time": 80887,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-408",
-      "start_time": 80512,
+      "start_time": 81090,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-409",
-      "start_time": 80721,
+      "start_time": 81299,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-410",
-      "start_time": 80866,
+      "start_time": 81444,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-411",
-      "start_time": 81104,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 81682,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-412",
-      "start_time": 81313,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 81885,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-413",
-      "start_time": 81458,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 82094,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-414",
-      "start_time": 81696,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 82239,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-415",
-      "start_time": 81905,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 82477,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-416",
-      "start_time": 82050,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-417",
-      "start_time": 82288,
+      "start_time": 82680,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-418",
-      "start_time": 82497,
+      "slot_id": "2026-07-13-417",
+      "start_time": 82889,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-419",
-      "start_time": 82642,
+      "slot_id": "2026-07-13-418",
+      "start_time": 83034,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-419",
+      "start_time": 83272,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-420",
-      "start_time": 82880,
+      "start_time": 83475,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-421",
-      "start_time": 83089,
+      "start_time": 83684,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-422",
-      "start_time": 83234,
+      "start_time": 83829,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-423",
-      "start_time": 83472,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 84067,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-424",
-      "start_time": 83681,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 84270,
+      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
+      "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-425",
-      "start_time": 83826,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
+      "start_time": 84479,
+      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
+      "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-426",
-      "start_time": 84064,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
+      "start_time": 84624,
+      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
+      "duration_seconds": 238
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-427",
-      "start_time": 84273,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
+      "start_time": 84862,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-428",
-      "start_time": 84418,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-429",
-      "start_time": 84656,
+      "start_time": 85065,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-430",
-      "start_time": 84865,
+      "slot_id": "2026-07-13-429",
+      "start_time": 85274,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
-      "slot_id": "2026-07-13-431",
-      "start_time": 85010,
+      "slot_id": "2026-07-13-430",
+      "start_time": 85419,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     },
     {
       "type": "fixed",
+      "slot_id": "2026-07-13-431",
+      "start_time": 85657,
+      "asset_id": "my-day-in-an-oasis-bedouin-life-to-desert-house-beats-19f5cc56014",
+      "duration_seconds": 203
+    },
+    {
+      "type": "fixed",
       "slot_id": "2026-07-13-432",
-      "start_time": 85248,
+      "start_time": 85860,
       "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
       "duration_seconds": 209
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-433",
-      "start_time": 85457,
+      "start_time": 86069,
       "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
       "duration_seconds": 145
     },
     {
       "type": "fixed",
       "slot_id": "2026-07-13-434",
-      "start_time": 85602,
-      "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
-      "duration_seconds": 238
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-435",
-      "start_time": 85840,
-      "asset_id": "the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346",
-      "duration_seconds": 209
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-436",
-      "start_time": 86049,
-      "asset_id": "legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a",
-      "duration_seconds": 145
-    },
-    {
-      "type": "fixed",
-      "slot_id": "2026-07-13-437",
-      "start_time": 86194,
+      "start_time": 86214,
       "asset_id": "light-ugu-call-me-the-builder-19f5cc48d16",
       "duration_seconds": 238
     }
