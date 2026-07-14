@@ -19,6 +19,8 @@
     "video": "video_1080p.mp4",
     "poster": "poster.jpg"
   },
-  "mirror_urls": [],
+  "mirror_urls": [
+    "https://github.com/kaigani/5ives-channel-source/releases/download/media-the-lady-of-the-golden-field-dreamy-surreal-ai-music-video-19f59213346"
+  ],
   "published_at": "2026-07-13T01:40:33.215801Z"
 }

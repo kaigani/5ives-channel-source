@@ -18,6 +18,8 @@
     "video": "video_1080p.mp4",
     "poster": "poster.jpg"
   },
-  "mirror_urls": [],
+  "mirror_urls": [
+    "https://github.com/kaigani/5ives-channel-source/releases/download/media-sf-3-dreaminaai-dreaminacpp-seedance2-19f5cc8ba60"
+  ],
   "published_at": "2026-07-13T18:42:11.417592Z"
 }

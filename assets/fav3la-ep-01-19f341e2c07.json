@@ -19,6 +19,8 @@
     "video": "video_1080p.mp4",
     "poster": "poster.jpg"
   },
-  "mirror_urls": [],
+  "mirror_urls": [
+    "https://github.com/kaigani/5ives-channel-source/releases/download/media-fav3la-ep-01-19f341e2c07"
+  ],
   "published_at": "2026-07-05T21:12:15.013093Z"
 }

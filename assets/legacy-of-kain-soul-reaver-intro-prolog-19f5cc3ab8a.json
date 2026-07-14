@@ -19,6 +19,8 @@
     "video": "video_1080p.mp4",
     "poster": "poster.jpg"
   },
-  "mirror_urls": [],
+  "mirror_urls": [
+    "https://github.com/kaigani/5ives-channel-source/releases/download/media-legacy-of-kain-soul-reaver-intro-prolog-19f5cc3ab8a"
+  ],
   "published_at": "2026-07-13T18:36:30.003458Z"
 }

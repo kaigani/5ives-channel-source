@@ -18,6 +18,8 @@
     "video": "video_1080p.mp4",
     "poster": "poster.jpg"
   },
-  "mirror_urls": [],
+  "mirror_urls": [
+    "https://github.com/kaigani/5ives-channel-source/releases/download/media-rawhide-theme-happy-horse-1-1-remake-19f5cc64501"
+  ],
   "published_at": "2026-07-13T18:39:07.958379Z"
 }
