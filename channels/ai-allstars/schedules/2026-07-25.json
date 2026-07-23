@@ -1,7 +1,7 @@
 {
   "spec": 2,
   "channel_id": "ai-allstars",
-  "version": 5,
+  "version": 6,
   "valid_from": "2026-07-25T00:00:00Z",
   "valid_until": "2026-07-26T00:00:00Z",
   "slots": [
